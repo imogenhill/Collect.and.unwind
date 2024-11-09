@@ -1,4 +1,4 @@
-# myproject
+# Collect and Unwind
 
 This project is a video game, as well as a short song acting as background music for the game.
 
@@ -8,6 +8,7 @@ My project is a video game set at the beach in which the player is tasked with c
 My game intends to assist users with stress and anxiety by providing a relaxing landscape and distraction. I undertook this project to develop my code literacy and to demonstrate the skills learnt throughout the course. 
 
 **Technologies Used**
+
 Project is created with
 - MakeCode Arcade
 - TunePad
@@ -17,8 +18,12 @@ Project is created with
 - avoid enemies that roam the beach and the ocean
 
 **Screenshots**
+<img width="1391" alt="Screenshot 2024-11-09 at 6 47 41 PM" src="https://github.com/user-attachments/assets/ddc3fb16-5df9-4f58-b7e5-d1aea1d743f8">
+
 
 **Setup**
+- MakeCode arcade - file and link provided
+- Music - mp4 and link provided
 
 **Project status:**
 
